@@ -1,4 +1,4 @@
-## etch-a-sketch Project
+# etch-a-sketch Project
  Link to my project's website: https://nben2021.github.io/etch-a-sketch/
 
 ## Description
