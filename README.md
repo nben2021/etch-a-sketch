@@ -1,5 +1,5 @@
-## etch-a-sketch
- Etch-a-Sketch Project Readme
+## etch-a-sketch Project's ReadMe
+ Link to my project's website: https://nben2021.github.io/etch-a-sketch/
 
 ## Description
 
